@@ -83,7 +83,7 @@ main {
 
 .contentbox {
     width: 590px;
-    height: auto;
+    height: 60%;
     background: white;
     flex: 3;
     padding: 10px 30px 30px 30px;
