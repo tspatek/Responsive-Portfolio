@@ -96,7 +96,7 @@ main {
     flex: none;
     display: flex;
     flex-wrap: nowrap;
-    /* height: 65px; */
+    height: 65px;
     justify-content: space-between;
 }
 
