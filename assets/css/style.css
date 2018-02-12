@@ -172,7 +172,18 @@ footer {
     margin-top: auto;
 }
 
+@media (max-width: 980px) {
 
+}
+
+@media (max-width: 768px) {
+    main {
+        display: block;
+    }
+}
+
+@media (max-width: 640px) {
+}
 
 
 
